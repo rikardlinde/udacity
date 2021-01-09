@@ -9,11 +9,10 @@ This project is a part of the [Front-End Web Developer Nanodegree Program](https
 ## Features
 List of features:
 
-* 
-
-To-do list:
-
-* 
+* Homepage
+* Blog post
+* Sidebar
+* Mobile, pad and desktop version
 
 
 ## Status
