@@ -122,8 +122,31 @@ time:before {
 /* FOOTER LAYOUT */
 
 footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 100px 1fr 1fr;
+  grid-template-areas:
+  "footer-title footer-title"
+  "portrait author"
+  "contact remix";
   background: #eee;
   border-top: 1px solid #ddd;
+}
+
+.about-the-site {
+  grid-area: footer-title;
+}
+.portrait {
+  grid-area: portrait;
+}
+.author {
+  grid-area: author;
+}
+.contact {
+  grid-area: contact;
+}
+.remix {
+  grid-area: remix;
 }
 
 .contact > ul {
