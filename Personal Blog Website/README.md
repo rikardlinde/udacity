@@ -15,7 +15,7 @@ This project is a part of the [Front-End Web Developer Nanodegree Program](https
 
 
 ## Status
-Project is: _in progress_. Received a review and need to fix one thing, I have to use **display: grid;** one more time in the project. 
+Project is: _in progress_. Waiting for a review.
 
 
 ## Inspiration
