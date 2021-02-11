@@ -10,6 +10,11 @@ This project is a part of the [Front-End Web Developer Nanodegree Program](https
 
 * Homepage
 
+## Purpose
+
+* appending dynamically added data to the DOM
+* how javascript can improve the usability of an otherwise static site
+
 
 ## Status
 Project is: _in progress_. 
