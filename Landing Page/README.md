@@ -21,10 +21,8 @@ This project is a part of the [Front-End Web Developer Nanodegree Program](https
 
 
 ## Status
-Project is: _reading instructions_. 
+_Reading instructions_. 
 
-
-## Inspiration
 
 ## Contact
 [@rikardlinde](https://github.com/rikardlinde)
