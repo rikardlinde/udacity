@@ -19,6 +19,9 @@ This project is a part of the [Front-End Web Developer Nanodegree Program](https
 * When clicking an item from the navigation menu, the link should scroll to the appropriate section
 * Responsive navigation
 
+## Inspiration
+[Hugonin](https://github.com/hugonin/landing-page)
+
 
 ## Status
 Reading instructions 
