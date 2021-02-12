@@ -6,22 +6,25 @@
 This project is a part of the [Front-End Web Developer Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
 
 
-## Features
-
-* Homepage
-
 ## Purpose
 
 * appending dynamically added data to the DOM
 * how javascript can improve the usability of an otherwise static site
 
 
+## Features
+
+* Navigation is built dynamically as an unordered list
+* It is clear which section is being viewed while scrolling through the page
+* When clicking an item from the navigation menu, the link should scroll to the appropriate section
+* Responsive navigation
+
+
 ## Status
-Project is: _in progress_. 
+Project is: _reading instructions_. 
 
 
 ## Inspiration
-[Dev.to designs](https://dev.to)
 
 ## Contact
 [@rikardlinde](https://github.com/rikardlinde)
