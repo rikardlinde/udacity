@@ -1,5 +1,5 @@
 # Landing Page
-> A multi-section landing page
+> A multi-section landing page. Navigation is generated dynamically from the text sections. Scrolling from the navigation links is built with Javascript. So is functionality to distinguish the section currently shown in the viewport.
 
 
 ## Status
