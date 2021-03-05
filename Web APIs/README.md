@@ -1,5 +1,4 @@
 # Web API's and Asynchronous Applications
-> A multi-section landing page. 
 > 
 
 ## Status
