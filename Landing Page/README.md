@@ -3,7 +3,7 @@
 
 
 ## Status
-Sketching and designing.
+Indenting code and writing comments
 
 
 ## General info
