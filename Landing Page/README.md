@@ -1,12 +1,15 @@
 # Landing Page
+
 > A multi-section landing page. Navigation is generated dynamically from the text sections. Scrolling from the navigation links is built with Javascript. So is functionality to distinguish the section currently shown in the viewport.
 
 
 ## Status
+
 Reviewing and correcting based on feedback from Udacity.
 
 
 ## General info
+
 This project is a part of the [Front-End Web Developer Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
 
 
@@ -22,6 +25,19 @@ This project is a part of the [Front-End Web Developer Nanodegree Program](https
 * It is clear which section is being viewed while scrolling through the page
 * When clicking an item from the navigation menu, the link should scroll to the appropriate section
 * Responsive navigation
+
+
+## Dependencies
+
+Google Fonts
+
+
+## Files
+
+* index.html
+* style.css
+* app.js
+* README.md
 
 
 ## Inspiration
