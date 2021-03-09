@@ -1,3 +1,5 @@
+
+
 html {
 
     scroll-behavior: smooth;
@@ -11,6 +13,13 @@ body {
 
     margin: 0;
     padding: 0;
+
+}
+
+.page__header {
+
+    position: sticky !important;
+    top: 0;
 
 }
 
