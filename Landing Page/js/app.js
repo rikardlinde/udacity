@@ -1,4 +1,4 @@
-// Insert sections in main
+// Inserts sections in main
 
 function buildSection(quantity) {
 
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     sections.forEach(e => {
 
-       const navList = "<li><a onclick='scrollToSection(" + e.id + ")'>" + e.dataset.nav + "</a></li>";
+       const navList = "<li><a onclick='scrollToSection(" + e.id + "); showActive(event);' id='nav" + e.id + "'>" + e.dataset.nav + "</a></li>";
 
        navBar.innerHTML += navList;
 
@@ -116,6 +116,7 @@ window.addEventListener("scroll", function() {
 scrollToSection = (whatSection) => {
 
     const theId = "#" + whatSection.id;
+    const navSection = "nav" + whatSection.id;
     const theSection = document.querySelector(theId);
     const sectionPosition = theSection.getBoundingClientRect();
 
@@ -127,3 +128,19 @@ scrollToSection = (whatSection) => {
     })
 
 }
+
+
+// Highlights current section in the navigation bar
+
+function showActive(e) {
+
+    if (document.querySelector('#navbar__list li a.active') !== null) {
+
+        document.querySelector('#navbar__list li a.active').classList.remove('active');
+
+    }
+
+    e.target.className = "active";
+
+}
+
