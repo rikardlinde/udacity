@@ -1,24 +1,16 @@
 # README
 
-> 
+> Learning to write usable and readable README documents.
 
 ## Status
 
-
-
-
-## Purpose
-
-
-
-## Features
-
-
+Finished
 
 
 ## Files
 
-* README.md
+* [README.md](https://github.com/rikardlinde/udacity/blob/main/Writing%20READMEs/README.md)
+* [My Fabulous Recipe](https://github.com/rikardlinde/udacity/blob/main/Writing%20READMEs/My%20Fabulous%20Recipe)
 
 
 ## License
