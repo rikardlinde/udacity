@@ -6,6 +6,10 @@
 
 Finished
 
+## Course
+
+This is documentation from Udacity's course [Writing READMEs](https://classroom.udacity.com/courses/ud777).
+
 
 ## Files
 
