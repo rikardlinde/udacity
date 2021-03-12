@@ -40,6 +40,11 @@ Google Fonts
 * README.md
 
 
+## License
+
+The code in this project is licensed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+
 ## Inspiration
 
 [Hugonin](https://github.com/hugonin/landing-page)
