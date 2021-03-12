@@ -5,7 +5,7 @@
 
 ## Status
 
-Reviewing and correcting based on feedback from Udacity.
+Waiting for feedback from Udacity.
 
 
 ## General info
