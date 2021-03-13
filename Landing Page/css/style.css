@@ -46,6 +46,13 @@ body {
 
 }
 
+.active {
+
+    font-weight: 900;
+    text-decoration: none !important;
+
+}
+
 .icon {
 
     font-size: 20px;
@@ -82,7 +89,6 @@ main {
 section {
 
     margin-bottom: 40%;
-    border: 1px dotted green;
 
 }
 
