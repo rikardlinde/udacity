@@ -115,14 +115,15 @@ window.addEventListener("scroll", function() {
 
 scrollToSection = (whatSection) => {
 
-    const theId = "#" + whatSection.id;
-    const navSection = "nav" + whatSection.id;
-    const theSection = document.querySelector(theId);
-    const sectionPosition = theSection.getBoundingClientRect();
+    let currentTop =  window.scrollY;
+    let theId = "#" + whatSection.id;
+    let theSection = document.querySelector(theId);
+    let sectionPosition = theSection.getBoundingClientRect();
+    let scrollHere = currentTop + sectionPosition.top;
 
     window.scroll({
 
-        top: sectionPosition.top,
+        top: scrollHere,
         behavior: 'smooth'
 
     })
