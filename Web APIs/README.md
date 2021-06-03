@@ -2,7 +2,7 @@
 > 
 
 ## Status
-Watching the introduction
+Requests and Routes
 
 
 ## General info
@@ -11,16 +11,13 @@ Watching the introduction
 
 ## Purpose
 
-* 
+* To pass data between a server and a web app.
 
 
 ## Features
 
 * Node
 * Express
-
-## Inspiration
-
 
 
 ## Contact
